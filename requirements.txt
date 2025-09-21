@@ -1,4 +1,4 @@
-pandas
-matplotlib
-numpy
-seaborn
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.7
+seaborn>=0.13
